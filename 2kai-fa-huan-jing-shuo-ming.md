@@ -1,7 +1,7 @@
 > ### 目录
 
 ---
-	操作系统：Windows XP/Windows 7,8或更高版本
+<li>操作系统：Windows XP/Windows 7,8或更高版本
 	开发工具：Visual Studio 2013~2015或更高版本
 	数据库：Microsoft SQL Server 2005~2010或更高版本
 	第三方控件：DevExpress 12.x或更高版本
