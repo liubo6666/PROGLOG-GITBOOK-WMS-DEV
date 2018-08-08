@@ -9,6 +9,6 @@
   * [4.1编程规约](4kai-fa-gui-fan/41bian-cheng-gui-yue.md)
   * [4.2异常日志](4kai-fa-gui-fan/42yi-chang-ri-zhi.md)
   * 4.3数据库
-  * 4.4公共方法
+  * [4.4公共方法](4kai-fa-gui-fan/44gong-gong-fang-fa.md)
 * [5.数据字典](5shu-ju-zi-dian.md)
 
