@@ -1,4 +1,5 @@
 > ### 异常日志 
+
 ---
 * (一) 异常处理 
 1. 【强制】Java 类库中定义的可以通过预检查方式规避的 RuntimeException 异常不应该通过 catch 的方式来处理，比如：NullPointerException，IndexOutOfBoundsException 等等。 说明：无法通过预检查的异常除外，比如，在解析字符串形式的数字时，不得不通过 catch NumberFormatException 来实现。 正例：if (obj != null) {...} 反例：try { obj.method(); } catch (NullPointerException e) {…} 
