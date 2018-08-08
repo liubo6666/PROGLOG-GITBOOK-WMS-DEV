@@ -19,7 +19,7 @@
 11. 【推荐】定义时区分 unchecked / checked 异常，避免直接抛出 new RuntimeException()， 更不允许抛出 Exception 或者 Throwable，应使用有业务含义的自定义异常。推荐业界已定义 过的自定义异常，如：DAOException / ServiceException 等。 
 12. 【参考】对于公司外的 http/api 开放接口必须使用“错误码”；而应用内部推荐异常抛出； 跨应用间 RPC 调用优先考虑使用 Result 方式，封装 isSuccess()方法、“错误码”、“错误简 短信息”。 说明：关于 RPC 方法返回方式使用 Result 方式的理由：  1）使用抛异常返回方式，调用方如果没有捕获到就会产生运行时错误。  2）如果不加栈信息，只是 new 自定义异常，加入自己的理解的 error message，对于调用 端解决问题的帮助不会太多。如果加了栈信息，在频繁调用出错的情况下，数据序列化和传输 的性能损耗也是问题。 
 13. 【参考】避免出现重复的代码（Don’t Repeat Yourself），即 DRY 原则。 说明：随意复制和粘贴代码，必然会导致代码的重复，在以后需要修改时，需要修改所有的副 本，容易遗漏。必要时抽取共性方法，或者抽象公共类，甚至是组件化。 正例：一个类中有多个 public 方法，都需要进行数行相同的参数校验操作，这个时候请抽取： private boolean checkParam(DTO dto) {...}   
-(二) 日志规约 
+* (二) 日志规约 
 1. 【强制】应用中不可直接使用日志系统（Log4j、Logback）中的 API，而应依赖使用日志框架 SLF4J 中的 API，使用门面模式的日志框架，有利于维护和各个类的日志处理方式统一。 import org.slf4j.Logger;  import org.slf4j.LoggerFactory;  
  private static final Logger logger = LoggerFactory.getLogger(Abc.class);  
 阿里巴巴 Java 开发手册 
