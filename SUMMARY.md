@@ -11,6 +11,6 @@
   * 4.3数据库
   * [4.4公共方法](4kai-fa-gui-fan/44gong-gong-fang-fa.md)
 * [5.数据字典](5shu-ju-zi-dian.md)
-  * 5.1表结构
+  * [5.1表结构](5shu-ju-zi-dian/51biao-jie-gou.md)
   * 5.2表数据
 
