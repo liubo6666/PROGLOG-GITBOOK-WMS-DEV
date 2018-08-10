@@ -64,5 +64,5 @@ input[type=checkbox]{
     height: 2em;
     line-height: 2em;
     border-radius: 4px;
-    background: #efefef;
+    background: #efefef;#tab{font-size:12;}
 }
