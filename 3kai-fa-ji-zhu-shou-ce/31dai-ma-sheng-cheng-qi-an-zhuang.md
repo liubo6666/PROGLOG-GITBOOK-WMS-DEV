@@ -8,7 +8,13 @@
 
 * 代码生成器注册
 
-        
+       1\)打开CodeSmith软件，会弹出需要激活的界面，如下：
 
+       ![](file:///C:\Users\bo\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg)
 
+      2\)
+
+ �Y�c
+
+&�$
 
