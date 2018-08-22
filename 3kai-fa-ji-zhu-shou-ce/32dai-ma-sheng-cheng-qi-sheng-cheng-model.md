@@ -33,7 +33,7 @@
 
 ![](/assets/CodeSmithUse/06.png)
 
-
+4\)
 * 生成Model并加载到项目中
 
 
