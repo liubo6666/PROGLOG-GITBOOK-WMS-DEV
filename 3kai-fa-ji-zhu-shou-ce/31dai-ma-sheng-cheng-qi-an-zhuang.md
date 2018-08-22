@@ -16,5 +16,7 @@
 
 ![](/assets/CodeSmithGenerator/02.png)
 
+3\)生成 key:  需更改Prefix的值为：CS70P-，其他默认不要即可，然后点击Generate
+![](/assets/CodeSmithGenerator/03.png)
 
 
