@@ -40,7 +40,7 @@
 
 ![](/assets/CodeSmithGenerator/08.png)
 
-9\)改Prefix,改Code时间大于今天，把步骤7中的Machine Code复制到Machine Hash Code，点击Generate
+9\)改Prefix的值为：CS70P-,改Code：时间大于今天，填Machine Hash Code：步骤7中复制的Machine Code，点击Generate
 
 ![](/assets/CodeSmithGenerator/09.png)
 
