@@ -29,5 +29,15 @@
 ![](/assets/CodeSmithGenerator/07.png)
 8\)回到注册软件，点击左上角按钮
 ![](/assets/CodeSmithGenerator/08.png)
+9\)改Prefix,改Code时间大于今天，把步骤7中的Machine Code复制到Machine Hash Code，点击Generate
+![](/assets/CodeSmithGenerator/09.png)
+10\)复制注册软件最下面一个框中的激活序列号，粘贴到CodeSmith中，最后点击Activate
+![](/assets/CodeSmithGenerator/10.png)
+11\)等待注册
+![](/assets/CodeSmithGenerator/11.png)
+12\)注册成功
+![](/assets/CodeSmithGenerator/12.png)
+
+参考网址：https://www.cnblogs.com/xcsn/p/4529569.html
 
 
