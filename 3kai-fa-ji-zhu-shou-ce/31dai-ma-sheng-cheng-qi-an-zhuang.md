@@ -12,3 +12,9 @@
 
 ![](/assets/CodeSmithGenerator/01.png)
 
+2\)打开注册软件CodesmithKeyGenerator.exe，如下：
+
+![](/assets/CodeSmithGenerator/02.png)
+
+
+
