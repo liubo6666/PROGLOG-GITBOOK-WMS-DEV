@@ -8,8 +8,7 @@
 
 * 代码生成器注册
 
-  1)打开CodeSmith软件，会弹出需要激活的界面，如下：
+  1\)打开CodeSmith软件，会弹出需要激活的界面，如下：
 
-
-
+![](/assets/CodeSmithGenerator/01.png)
 
