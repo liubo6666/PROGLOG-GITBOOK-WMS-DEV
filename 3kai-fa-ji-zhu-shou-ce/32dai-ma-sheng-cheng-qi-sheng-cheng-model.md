@@ -8,7 +8,9 @@
 
   2\)右键模版“ORMModelTemplate.cst”，执行Execute（安装CodeSmith后才可以直接运行）
 
-![](/assets/CodeSmithUse/01.png)
+![](/assets/CodeSmithUse/01.png)3\)
+
+
 
 * 选择Model对应的实体表
 * 生成Model并加载到项目中
