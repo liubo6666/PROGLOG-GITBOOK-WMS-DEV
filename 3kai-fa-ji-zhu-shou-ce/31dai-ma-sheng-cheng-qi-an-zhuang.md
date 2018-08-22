@@ -21,4 +21,5 @@
 
 4\)回到CodeSmith激活界面，然后点击激活页面的Register，注意不是Try
 ![](/assets/CodeSmithGenerator/04.png)
-
+5\)有两个必填项：Name随便填写；Serial Number把步骤3中生成的key粘贴进去，然后继续点击Register，
+![](/assets/CodeSmithGenerator/05.png)
